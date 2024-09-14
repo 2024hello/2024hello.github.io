@@ -1,0 +1,15 @@
+{
+    "success":true,
+    "code":0,
+    "msg":"操作成功",
+    "data":{
+        "hasUpdate": true,
+        "versionCode": 5,
+        "versionName": "1.0.5",
+        "updateLog": "\r\n0、必须强制更新。\r\n1、优化api接口。\r\n2、优化Ui和用户体验。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
+        "apkUrl": "https://gitee.com/qizhimu/noppp-ui/raw/master/jsonapi/release-1.0.5-2024_06_24.apk",
+        "DownloadUrl": "https://xuexiangjys.oss-cn-shanghai.aliyuncs.com/apk/xupdate_demo_1.0.2.apk",
+        "DownloadUrl1": "https://gitee.com/qizhimu/noppp-ui/raw/master/jsonapi/release-1.0.5-2024_06_24.apk",
+        "apkSize": 10284
+     }
+}
